@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666411156183",
+    "firebase_url": "https://trojansv1.firebaseio.com",
+    "project_id": "trojansv1",
+    "storage_bucket": "trojansv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666411156183:android:e95f21a1e2cc5b65e9a692",
+        "android_client_info": {
+          "package_name": "com.example.trojan_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666411156183-u76cc2r3rrka2r0onm8dri5idlrpmdls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjC43OrAp03wrcfY7mGbI-GH-zmo91AhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666411156183-u76cc2r3rrka2r0onm8dri5idlrpmdls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
